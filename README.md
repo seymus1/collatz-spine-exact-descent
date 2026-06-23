@@ -1,6 +1,6 @@
 # collatz-spine-exact-descent
 
-This repository contains the Python code and output summaries for the exact-integer verification and AAS-based metamorphic post-evaluation reported in the paper:
+This repository contains the Python code for reproducing the summary statistics reported in the paper.
 
 **Exact and Delayed Descent in Accelerated Odd Collatz Spines with AAS-Based Metamorphic Separation**
 
